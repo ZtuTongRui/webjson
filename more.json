@@ -1,0 +1,40 @@
+
+  
+  {
+  "squadName" : "paints",
+  // "homeTown" : "Metro City",
+  // "formed" : 2016,
+  // "secretBase" : "Super tower",
+  // "active" : true,
+  "members" : [
+    {
+      "name" : "彩铅",
+      // "age" : 29,
+      // "secretIdentity" : "Dan Jukes",
+      "daibiao" : [
+        "《亚热带风景》",
+        "《老人像》",
+        "《祈祷之手》"
+      ]
+    },
+    {
+      "name" : "国画",
+      // "age" : 39,
+      // "secretIdentity" : "Jane Wilson",
+      "daibiao" : [
+        "虾",
+        " 驴",
+        "牛"
+      ]
+    },
+    {
+      "name" : "素描",
+      // "age" : 1000000,
+      // "secretIdentity" : "Unknown",
+      "daibiao" : [
+        "《泽库青年们》",
+     
+      ]
+    }
+  ]
+}
